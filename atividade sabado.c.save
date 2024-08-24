@@ -3,6 +3,7 @@
 int main(){
 
     int a, b, c, d, e, f, g;
+    char  s
     printf("voce tem compromisso? S=1/N-0 ");
     scanf("%d", &a);
     printf("voce vai estar na cidade? S=1/N-0 ");
@@ -19,7 +20,7 @@ int main(){
     } else {
         printf("Voce nao vai!\n");
     }
-    
+
     return 0;
 
 }
